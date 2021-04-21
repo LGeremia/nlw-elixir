@@ -20,4 +20,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ## What's the project?
 
-The project is an API to assist in the management of restaurant products.
+The project is an API to assist in the management of restaurant supplies.
